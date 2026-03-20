@@ -1,3 +1,3 @@
 ## 📅 Progress
-- 1: Reverse Number
-- 2: palindrome Number
+-  01 : Reverse Number
+-  02 : palindrome Number
