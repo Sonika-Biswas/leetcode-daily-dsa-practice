@@ -11,4 +11,4 @@ A collection of all the dsa questions solved by me in leetcode on a daily basis.
 - Day 1: Reverse A Number
 - Day 2: Palindrome Number
 - Day 3: Frequncy of the most Frequent Element ( Sliding Window + Greedy + Sorting )
-- Day 4: Selection Sort
+- Day 4: Selection Sort, Bubble Sort (Optimized)
