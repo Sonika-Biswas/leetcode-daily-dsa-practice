@@ -17,3 +17,4 @@ A collection of all the dsa questions solved by me in leetcode on a daily basis.
 - Day 7: Right Rotation of array by K places, Left Rotation of Array by K Places
 - Day 8: Move zeroes to the end
 - Day 9: Union of Two Arrays
+- Day 10: Find Missing Element in the Array
